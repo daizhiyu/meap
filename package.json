@@ -1,6 +1,6 @@
 {
-  "name": "meap01",
-  "version": "1.0.1",
+  "name": "meap",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,8 @@
   },
   "dependencies":{
     "ioredis": "^4.19.4",
-    "node-expat": "^2.3.18"
+    "node-expat": "^2.3.18",
+    "node-uuid": "^1.4.8"
   },
   "keywords": [],
   "author": "",
